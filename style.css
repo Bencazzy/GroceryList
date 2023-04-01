@@ -1,0 +1,38 @@
+body {
+	text-align: center;
+}
+
+input {
+	width: 160px;
+	height: 35px;
+}
+
+#addBtn {
+	margin-top: 10px;
+	border: 3px solid black;
+	border-radius: 5px;
+	background-color: #00cc00;
+	width: 80px;
+	height: 35px;
+}
+
+#clearBtn {
+	border: 3px solid black;
+	border-radius: 5px;
+	background-color: #ff6666;
+	width: 80px;
+	height: 35px;
+}
+
+.elementButton {
+	border-radius: 5px;
+	background-color: #ccff33;
+	margin-left: 5px;
+}
+
+div {
+	margin: auto;
+	background-color: #ffffe6;
+	border-radius: 10px;
+	width: 500px;
+}
